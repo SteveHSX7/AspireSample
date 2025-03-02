@@ -49,7 +49,7 @@ and I think this comes from the launchSettings.json having an applicationUrl in 
 
 If I remove the applicationUrl (or create a new profile without one and reference this in the AppHost) then the deployment works :
 
-**AppHost.cs**
+**AppHost.cs**  
 <img width="866" alt="image" src="https://github.com/user-attachments/assets/2b0ae0a8-1ba8-49af-8c45-530865a07db7" />
 
 **launchSettings.json**  
