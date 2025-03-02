@@ -2,7 +2,7 @@ Repo to illustratte issue on Aspire : https://github.com/dotnet/aspire/discussio
 
 This is essentially the Aspire Starter project with two small mods : 
 
-1) Add port details and some relicas (>1) to the Api Service project reference :
+1) Add endpoint details and some relicas (>1) to the Api Service project reference :
 
 <img width="866" alt="image" src="https://github.com/user-attachments/assets/0a98bb1c-69ef-4d22-8979-44824b65e00c" />
 
