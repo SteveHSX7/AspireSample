@@ -45,7 +45,7 @@ In particular I suspect this section is the problem :
 				],
 ```
 
-and I think this comes from the launchSettings.json having an applicationUrl in launch profile being used for that project (either the first one specifically selected).
+and I think this comes from the launchSettings.json having an applicationUrl in the launch profile being used for that project (either the first one or an explicitly specified one).
 
 If I remove the applicationUrl (or create a new profile without one and reference this in the AppHost) then the deployment works :
 
